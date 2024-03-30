@@ -5,8 +5,12 @@ author:
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
-description: >
+description: >-
 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: https://duquerosas.github.io # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: eduquerosas
+github_username:  eduquerosas
 
 # Build settings
 
