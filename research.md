@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Working Papers
-<strong><font size = "4">Working Papersr</font></strong>
+<strong><font size = "4">Working Papers</font></strong>
 
  <p style="margin-bottom:0"> [The Strong Effects of Weak Externalities on School Choice](../files/research/Weak_Externalities_School_Choice/weak_externalities_school_choice.pdf){:target="_blank" rel="noopener"}</p> <br> 
 with [Juan Pablo Torres-Martínez](https://econ.uchile.cl/es/academico/jutorres){:target="_blank" rel="noopener"} <br> 
