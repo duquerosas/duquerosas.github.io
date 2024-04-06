@@ -245,6 +245,27 @@ pre {
   vertical-align: text-bottom;
 }
 
+// Popup for homepage WPs
+div.buttonbar{
+  font-weight: lighter;
+  margin-bottom:15px;
+}
+div.popup{
+  margin-top:15px;
+  margin-left:0px;
+  margin-bottom:15px;
+  border-left:1px solid #bbbbbb;
+  padding-left:15px;
+  color:var(--global-text-color);
+}
+.button{
+  background-color:var(--global-bg-color);
+  padding:0px;
+  color:var(--global-theme-color);
+  font-weight: lighter;
+  cursor:pointer;
+  border:none;
+}
 
 /**
  * Tables
