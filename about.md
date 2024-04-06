@@ -10,4 +10,4 @@ author_profile: true
 
 I'm interested in empirical and theoretical industrial organization and the intersection of mechanism design and market design.
 
-My CV is available [here](files/CV/CV.pdf){:target="_blank" rel="noopener"}, and you can contact me at [eduque@uandes.cl](mailto:eduque@uandes.cl).</span> 
+My CV is available [here](files/CV/CV.pdf){:target="_blank" rel="noopener"}, and you can contact me at [eduque@uandes.cl](mailto:eduque@uandes.cl).
