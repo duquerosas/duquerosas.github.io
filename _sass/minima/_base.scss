@@ -256,7 +256,7 @@ div.popup{
   margin-bottom:15px;
   border-left:1px solid #bbbbbb;
   padding-left:15px;
-  color:var(--global-text-color);
+  color:var($text-color);
 }
 .button{
   background-color:var($text-color);
