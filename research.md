@@ -15,12 +15,12 @@ with [Juan Pablo Torres-Martínez](https://econ.uchile.cl/es/academico/jutorres)
   
 <strong><font size = "4">Work in Progress</font></strong>
 
-* Consumers’ Activism Against Collusion in the Retail Market <br> 
+Consumers’ Activism Against Collusion in the Retail Market <br> 
 with [Jorge Alé-Chilet](https://sites.google.com/site/jorgealechilet/){:target="_blank" rel="noopener"}, [Nano Barahona](https://hbaraho.github.io/){:target="_blank" rel="noopener"}, [Andrés González-Lira](https://sites.google.com/view/andres-gonzalez-lira){:target="_blank" rel="noopener"} and [Sebastián Otero](https://sebotero.webflow.io/){:target="_blank" rel="noopener"}
 
 <strong><font size = "4">Other</font></strong>
 
-* [Stability and Incentives in Matching Markets with
+[Stability and Incentives in Matching Markets with
 Externalities](https://repositorio.uchile.cl/bitstream/handle/2250/193033/Tesis%20-%20Eduardo%20Duque.pdf?sequence=1&isAllowed=y){:target="_blank" rel="noopener"} (In spanish)                 
     _MSc. in Economics Thesis_    
    
