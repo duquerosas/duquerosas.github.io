@@ -116,11 +116,11 @@ a {
   text-decoration: none;
 
   &:visited {
-    color: $link-visited-color;
+    color: $link-base-color;
   }
 
   &:hover {
-    color: $link-hover-color;
+    color: $link-base-color;
     text-decoration: underline;
   }
 
