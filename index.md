@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /
+author_profile: true
 ---
 
 <img align="right" src="https://duquerosas.github.io/files/CV/profile_2.png" alt="Photo" style="height: 200px; width:210px; border-radius: 10px; padding: 8px 8px 8px 8px"/>
