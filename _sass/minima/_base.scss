@@ -265,7 +265,8 @@ div.popup{
   font-weight: lighter;
   cursor:pointer;
   border:none;
-  font-size: $base-font-size
+  font-size: 0.9375em;
+  font-family: $code-font-family;
 }
 
 /**
